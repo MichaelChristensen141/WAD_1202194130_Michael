@@ -1,0 +1,30 @@
+body{
+  background-color: whitesmoke;
+}
+
+h1{
+  text-align: center;
+  text-decoration: underline;
+  color: blue;
+  text-indent: 20px;
+}
+
+h2{
+  text-align: center;
+  color: black;
+  text-transform: initial;
+}
+
+h3{
+  text-align: center;
+  color: red;
+  text-decoration: line-through;
+}
+
+p{
+  text-align: justify;
+  padding-right: 20%;
+  padding-left: 20%;
+  color: black;
+  letter-spacing: normal;
+}

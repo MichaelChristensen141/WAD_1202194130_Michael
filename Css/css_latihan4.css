@@ -1,0 +1,38 @@
+body{
+  background-image: url(https://assets.ayobandung.com/crop/0x0:0x0/750x400/webp/photo/2023/01/11/745387950.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+h1{
+  text-align: center;
+  color: whitesmoke;
+  text-indent: 20px;
+  font-family: 'Segoe UI';
+}
+
+h2{
+  text-align: center;
+  color: whitesmoke;
+  text-transform: initial;
+  font-family: 'Segoe UI';
+}
+
+h3{
+  text-align: center;
+  color: whitesmoke;
+  text-transform: initial;
+  font-family: 'Segoe UI';
+  font-size: 25px;
+}
+
+p{
+  text-align: center;
+  color: whitesmoke;
+  letter-spacing: normal;
+  font-family: 'Segoe UI';
+  font-size: 25px;
+  padding-top: 350px;
+  font-weight: bold;
+}

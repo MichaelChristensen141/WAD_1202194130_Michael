@@ -1,0 +1,27 @@
+h1{
+  text-align: left;
+  color: red;
+  font-variant: small-caps;
+  font-weight: 900;
+}
+
+h2{
+  text-align: left;
+  letter-spacing: 0.3cm;
+  color: black;
+}
+
+h3{
+  text-align: left;
+  color: black;
+}
+
+p{
+  text-align: justify;
+  color: black;
+  line-height: 1.5;
+}
+
+body{
+  background-color: whitesmoke;
+}
